@@ -1,3 +1,8 @@
+| :exclamation:  This repository is no longer maintained and may contain vulnerable code. If you wish to revive it, please request a security review.   |
+|-----------------------------------------|
+
+
+
 # Deprecated
 
 Please refer to [template-serverless-golang](https://github.com/myhelix/template-serverless-golang) or [template-serverless-nodejs](https://github.com/myhelix/template-serverless-nodejs) instead.
